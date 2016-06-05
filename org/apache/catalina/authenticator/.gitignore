@@ -1,0 +1,15 @@
+/AuthenticatorBase.class
+/BasicAuthenticator.class
+/Constants.class
+/DigestAuthenticator$1.class
+/DigestAuthenticator$DigestInfo.class
+/DigestAuthenticator$NonceInfo.class
+/DigestAuthenticator.class
+/FormAuthenticator.class
+/NonLoginAuthenticator.class
+/SSLAuthenticator.class
+/SavedRequest.class
+/SingleSignOn.class
+/SingleSignOnEntry.class
+/SpnegoAuthenticator$1.class
+/SpnegoAuthenticator.class

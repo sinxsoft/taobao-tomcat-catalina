@@ -1,0 +1,11 @@
+/Constants.class
+/JdbcLeakPrevention.class
+/ResourceEntry.class
+/StandardClassLoader.class
+/StandardClassLoaderMBean.class
+/VirtualWebappLoader.class
+/WebappClassLoader$1.class
+/WebappClassLoader$PrivilegedFindResourceByName.class
+/WebappClassLoader$PrivilegedGetClassLoader.class
+/WebappClassLoader.class
+/WebappLoader.class

@@ -1,0 +1,12 @@
+/AbstractGroup.class
+/AbstractRole.class
+/AbstractUser.class
+/Constants.class
+/MemoryGroup.class
+/MemoryGroupCreationFactory.class
+/MemoryRole.class
+/MemoryRoleCreationFactory.class
+/MemoryUser.class
+/MemoryUserCreationFactory.class
+/MemoryUserDatabase.class
+/MemoryUserDatabaseFactory.class
